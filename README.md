@@ -1,2 +1,3 @@
 # CustomerNavigationBar
 自定义导航栏, 支持下拉标题, 自定义 titleView, 添加 Item...
+![导航栏样式](https://user-images.githubusercontent.com/23724093/170411101-c8afbfe8-373f-4d68-8f79-91cc21facad6.png)
